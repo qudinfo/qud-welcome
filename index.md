@@ -1,4 +1,3 @@
----
 <style>
 /* прячем верхний заголовок-имя репозитория */
 .page-header,
@@ -12,7 +11,7 @@ header.page-header,
   padding-top: 24px !important;
 }
 </style>
-
+---
 layout: default
 nav_exclude: true
 ---
