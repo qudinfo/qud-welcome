@@ -1,3 +1,4 @@
 title: ""
 remote_theme: pages-themes/cayman@v0.2.0
 description: ""
+permalink: /:basename.html
