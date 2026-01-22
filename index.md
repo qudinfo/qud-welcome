@@ -26,13 +26,13 @@ nav_exclude: true
     <a class="qud-btn" href="#">Запросить доступ</a>
   </div>
 
-  <hr class="qud-divider">
-
   <p>Прямой платный вход в pre-QUD: краткое описание что там (15 дней, ограниченные возможности, наблюдение; затем предложение пройти тест и попасть в QUD Room).</p>
 
   <div class="qud-btn-row">
     <a class="qud-btn" href="#">Оплатить вход</a>
   </div>
+
+ <hr class="qud-divider">
 
   <div class="qud-footer-strip">
     Мотивационный текст для трейдеров, вызывающий интерес к проекту
