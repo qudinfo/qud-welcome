@@ -49,11 +49,9 @@ permalink: /request-access/
 
     try{
       const res = await fetch(WEB_APP_URL, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-        mode: "cors"
-      });
+      method: "POST",
+      body: JSON.stringify(payload) // ВАЖНО: без headers
+    });
 
       const data = await res.json().catch(()=>({}));
       if (!res.ok || data.ok !== true) {
