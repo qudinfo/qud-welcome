@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Скрываем верхнюю шапку с названием репозитория */
+.page-header { display: none !important; }
+
+/* Чуть поднимаем контент, чтобы не было пустоты */
+.main-content { padding-top: 24px; }
