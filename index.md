@@ -1,16 +1,3 @@
-<style>
-/* прячем верхний заголовок-имя репозитория */
-.page-header,
-header.page-header,
-.project-name {
-  display: none !important;
-}
-
-/* убираем пустоту сверху */
-.main-content {
-  padding-top: 24px !important;
-}
-</style>
 ---
 layout: default
 nav_exclude: true
