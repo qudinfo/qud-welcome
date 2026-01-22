@@ -24,7 +24,7 @@ nav_exclude: true
 
 <script>
   // ✅ сюда потом вставим URL твоего Apps Script Web App
-  const WEB_APP_URL = "PASTE_WEB_APP_URL_HERE";
+  const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwrb7OC1E4ymEYP5rcBMnt--YSvyOxODrESkn5DtjefYSOYlwi87JrCGB2T4vLU4hqa_w/exec";
 
   function normalizeTg(v){
     v = (v || "").trim();
