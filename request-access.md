@@ -2,7 +2,7 @@
 layout: default
 title: Request Access
 nav_exclude: true
-permalink: /request-access.html
+permalink: /request-access/
 ---
 
 # Запрос доступа
