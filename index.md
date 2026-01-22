@@ -1,6 +1,5 @@
 ---
 layout: default
-title: QUD
 nav_exclude: true
 ---
 
