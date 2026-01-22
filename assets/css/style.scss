@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Скрываем верхнюю шапку (где показывается qud-welcome) */
+.page-header,
+header.page-header,
+.project-name,
+.project-tagline {
+  display: none !important;
+}
+
+/* Поднимаем контент вверх, чтобы не было пустоты */
+.main-content {
+  padding-top: 24px !important;
+}
