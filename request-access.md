@@ -5,9 +5,9 @@ nav_exclude: true
 permalink: /request-access/
 ---
 
-# Запрос доступа
+# Запрос доступа к Demo Trading QUD
 
-Заполните данные для доступа.
+Заполните данные для:
 
 <form id="qudForm" class="qud-form">
   <label>Email</label><br>
