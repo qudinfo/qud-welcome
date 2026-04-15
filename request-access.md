@@ -58,7 +58,7 @@ permalink: /request-access/
         throw new Error(data.error || "Request failed");
       }
 
-      msg.textContent = "✅ Заявка отправлена. На вашу почту от qatequd@proton.me придёт доступ к тесту.";
+      msg.textContent = "✅ Заявка отправлена. В порядке очереди на вашу почту от qatequd@proton.me придёт доступ к тесту.";
       e.target.reset();
     } catch(err){
       msg.textContent = "⚠️ Не удалось отправить. Попробуйте ещё раз через минуту.";
